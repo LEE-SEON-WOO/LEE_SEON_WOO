@@ -1,12 +1,11 @@
 #
 <p align="center"> <a href="https://coderstats.net/github/#LEE-SEON-WOO"> <img src="https://github-readme-stats.vercel.app/api?username=LEE-SEON-WOO&hide_title=false&show_icons=true&theme=vue&hide=prs,contribs"width="65%"> </a> </p>
 
+
+
+
 <!--
 **LEE-SEON-WOO/LEE-SEON-WOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-SEON-WOO)](https://github.com/anuraghazra/github-readme-stats)
-
 
 Here are some ideas to get you started:
 
@@ -19,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-SEON-WOO)](https://github.com/anuraghazra/github-readme-stats)
