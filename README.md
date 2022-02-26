@@ -1,6 +1,11 @@
 #
 <p align="center"> <a href="https://coderstats.net/github/#LEE-SEON-WOO"> <img src="https://github-readme-stats.vercel.app/api?username=LEE-SEON-WOO&hide_title=false&show_icons=true&theme=vue&hide=prs,contribs"width="65%"> </a> </p>
 
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://www.instagram.com/leeseonwoooooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="mailto:x21999@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=x21999@gmail.com"/></a>
+</p>
 
 
 
